@@ -28,7 +28,7 @@ section {
     height: inherit;
 }
 figure {
-    background-image: url(assets/images/background-pattern-desktop.svg);
+    background-image: url("assets/images/background-pattern-desktop.svg");
     width: 100%;
     height: 320px;
     position: absolute;
@@ -111,7 +111,7 @@ justify-content: space-between;
     figure {
         width: 100%;
         height: 232px;
-        background-image: url('./faq-accordion-main/assets/images/background-pattern-mobile.svg');
+        background-image: url('assets/images/background-pattern-mobile.svg');
         background-repeat: no-repeat;
         background-size: cover;
     }
